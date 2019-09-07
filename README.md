@@ -1,2 +1,2 @@
 # learn
-learning purpose
+This is for tutorial purpose
